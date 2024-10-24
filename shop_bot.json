@@ -1,0 +1,72 @@
+[
+  {
+    "ProductID": "P001",
+    "Name": "Wireless Mouse",
+    "Description": "Ergonomic wireless mouse with adjustable DPI settings.",
+    "Price": 29.99,
+    "StockAvailability": true
+  },
+  {
+    "ProductID": "P002",
+    "Name": "Mechanical Keyboard",
+    "Description": "RGB backlit mechanical keyboard with brown switches.",
+    "Price": 79.99,
+    "StockAvailability": true
+  },
+  {
+    "ProductID": "P003",
+    "Name": "USB-C Hub",
+    "Description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "Price": 39.99,
+    "StockAvailability": true
+  },
+  {
+    "ProductID": "P004",
+    "Name": "Noise-Cancelling Headphones",
+    "Description": "Over-ear headphones with active noise cancellation.",
+    "Price": 199.99,
+    "StockAvailability": false
+  },
+  {
+    "ProductID": "P005",
+    "Name": "Smartphone Stand",
+    "Description": "Adjustable aluminum stand for smartphones and tablets.",
+    "Price": 14.99,
+    "StockAvailability": true
+  },
+  {
+    "ProductID": "P006",
+    "Name": "4K Monitor",
+    "Description": "27-inch 4K UHD monitor with HDR support.",
+    "Price": 349.99,
+    "StockAvailability": false
+  },
+  {
+    "ProductID": "P007",
+    "Name": "Portable SSD",
+    "Description": "1TB portable SSD with USB 3.1 Gen 2 interface.",
+    "Price": 129.99,
+    "StockAvailability": true
+  },
+  {
+    "ProductID": "P008",
+    "Name": "Bluetooth Speaker",
+    "Description": "Waterproof Bluetooth speaker with 12-hour battery life.",
+    "Price": 49.99,
+    "StockAvailability": true
+  },
+  {
+    "ProductID": "P009",
+    "Name": "Gaming Chair",
+    "Description": "Ergonomic gaming chair with lumbar support and recline function.",
+    "Price": 249.99,
+    "StockAvailability": false
+  },
+  {
+    "ProductID": "P010",
+    "Name": "Wireless Charger",
+    "Description": "Fast wireless charger with 10W power output.",
+    "Price": 24.99,
+    "StockAvailability": true
+  }
+]
